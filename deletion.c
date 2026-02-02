@@ -1,3 +1,11 @@
+/*
+Enter the number of elements:5
+Enter the elements:     10 20 30 40 50
+Enter the position to delete the element:2
+The array after deletion is :
+10      30      40      50
+    */
+
 #include<stdio.h>
 
 int main() {
