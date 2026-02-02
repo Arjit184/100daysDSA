@@ -1,14 +1,9 @@
  /*Enter the number of elements:5
-Enter the elements:
-1
-2
-4
-5
-6
+Enter the number of elements:5
+Enter the elements:     1 2 4 5 6
 Enter the element to be inserted3
 Enter the position to insert the element:3
-The array after insertion is:
-1 2 3 4 5 6 */
+The array after insertion is:   1 2 3 4 5 6  */
  
  
  #include<stdio.h>
