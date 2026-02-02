@@ -20,7 +20,7 @@ int n,element,pos;
     scanf("%d",&n);
 
     int arr[n];
-    printf("Enter the elements:\n");
+    printf("Enter the elements:\t");
     for(int i=0;i<n;i++) {
         scanf("%d",&arr[i]);
     }
@@ -36,7 +36,7 @@ int n,element,pos;
     }
     arr[pos-1]=element;
     n++;
-    printf("The array after insertion is:\n");
+    printf("The array after insertion is:\t");
     for(int i=0;i<n;i++) {
         printf("%d ",arr[i]);
     }
