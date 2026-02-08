@@ -1,3 +1,8 @@
+/*
+Enter the base(a):2
+Enter the exponenet(b):5
+2^5=32*/
+
 #include<stdio.h>
 
 int power(int a,int b) {
