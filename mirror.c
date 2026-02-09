@@ -1,3 +1,8 @@
+/*
+Enter a string:hello
+Mirrored string: olleh
+*/
+
 #include<stdio.h>
 #include<string.h>
 
