@@ -1,3 +1,11 @@
+/*
+Enter the number of rows and columns:3 3
+Enter the elements of the matrix:
+1 2 3
+2 4 5
+3 5 6
+The matrix is symmetric matrix.*/
+
 #include<stdio.h>
 
 int main() {
@@ -27,10 +35,8 @@ int main() {
                     printf("The matrix is not symmetric matrix.\n");
                     return 0;
                 }
-                else {
-                    continue;
-                }
-                
+        
+        
              }
         }
         printf("The matrix is symmetric matrix.\n");
