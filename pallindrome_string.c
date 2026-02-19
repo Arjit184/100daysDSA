@@ -1,3 +1,8 @@
+/*
+Enter a string:level
+YES */
+
+
 #include<stdio.h>
 #include<string.h>
 
