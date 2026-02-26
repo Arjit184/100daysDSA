@@ -18,7 +18,7 @@ scanf("%d",&n);
 
 int arr[n];
 
-printf("Enter the elements of matrix:\n");
+printf("Enter the elements of \n");
 for(int i=0;i<n;i++) {
     scanf("%d",&arr[i]);
 
