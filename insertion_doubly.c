@@ -56,5 +56,5 @@ int main() {
 
     printForward(head);
 
-    return 0;
+    return 0
 }
