@@ -16,7 +16,7 @@ struct QNode {
 // Create new tree node
 struct TreeNode* createNode(int val) {
     struct TreeNode* newNode = (struct TreeNode*)malloc(sizeof(struct TreeNode));
-    newNode->val = val;
+    newNode->val = val
     newNode->left = newNode->right = NULL;
     return newNode;
 }
