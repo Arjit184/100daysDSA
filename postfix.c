@@ -16,7 +16,7 @@ struct Node* top = NULL;
 
 
 void push(int x) {
-    struct Node* newnode = (struct Node*)malloc(sizeof(struct Node));
+    struct Node* nenode = (struct Node*)malloc(sizeof(struct Node));
     newnode->data = x;
     newnode->next = top;
     top = newnode;
