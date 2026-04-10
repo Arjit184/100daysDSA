@@ -12,7 +12,7 @@ int main() {
     int m,n;
 
     printf("Enter the number of rows and columns:");
-    scanf("%d %d",&m,&n);
+    scanf("%d %d",&m,&n)
 
     printf("Enter the elements of the matrix:\n");
 
