@@ -22,7 +22,7 @@ int main() {
         for(int j=0;j<n;j++) {
             scanf("%d",&A[i][j]);
         }
-    }
+    
 
         if(m!=n) {
             printf("The matrix is not square matrix,so it cannot be symmetric amtrix as well .\n");
